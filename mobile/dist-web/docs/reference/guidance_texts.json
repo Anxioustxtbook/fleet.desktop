@@ -1,0 +1,151 @@
+{
+ "tips": {
+  "home": [
+   "Your day at a glance",
+   "Tap the big card for the full dashboard. Tap the bell for alerts and the round + to add anything."
+  ],
+  "rentals": [
+   "Rentals",
+   "Tap a rental to see what is owed and to record a payment. Chips filter the list and the sliders button sorts it. Full list shows every column, like the computer."
+  ],
+  "bookings": [
+   "Bookings",
+   "A booking becomes a rental when the car goes out. A red alert means a pickup is close."
+  ],
+  "vehicles": [
+   "Vehicles",
+   "Tap a car for its photo, history and rate. Use Exit instead of delete so old records stay correct."
+  ],
+  "drivers": [
+   "Drivers",
+   "Tap a driver to see allowance and the car they are assigned to."
+  ],
+  "clients": [
+   "Clients",
+   "Search before you add. If the name or phone is already here, the app tells you so nobody is entered twice."
+  ],
+  "payments": [
+   "Payments",
+   "Money in is what clients pay you. Money out is what you spend. Both are recorded where the computer keeps them."
+  ],
+  "expenses": [
+   "Expenses",
+   "Pick the type and the car. Fuel is kept in the Fuel section so the Ola balance stays right."
+  ],
+  "fuel": [
+   "Fuel",
+   "A fill tagged Ola draws the Ola balance down. A fill tagged Outside is paid in cash. Tag every fill so the balance is right."
+  ],
+  "coop": [
+   "Coop",
+   "Each line is a coop rental. Add one with the + button and the totals follow."
+  ],
+  "subhire": [
+   "Sub-hire",
+   "These are cars you borrowed to finish a rental. Mark paid when the owner is paid."
+  ],
+  "calendar": [
+   "Calendar",
+   "Tap a day to see which cars are free. Coloured lines are cars. A red dot is a public holiday. Tap + Book to reserve a car."
+  ],
+  "reports": [
+   "Reports",
+   "Choose Day, Week, Month or Year, then use the arrows to move through time. Tap a car chip to see one car."
+  ],
+  "performance": [
+   "Performance",
+   "See what each car earned after fuel and costs. Switch to Full list for the table the computer shows."
+  ],
+  "pilot": [
+   "Pilot",
+   "Tap a month to open its figures. These are the same numbers as the computer overview."
+  ],
+  "audit": [
+   "Audit",
+   "This lists everything missing for 100% record fluency. Work down the list and each item leaves when it is fixed."
+  ],
+  "connect": [
+   "Connect to the computer",
+   "Be on the same Wi-Fi as the office computer, then tap Sync now. Your new records go to the desktop and are backed up."
+  ],
+  "review": [
+   "Review list",
+   "Items the phone held aside instead of guessing. Open one, fix it, then tap I have looked."
+  ],
+  "files": [
+   "File & backup",
+   "Back up now keeps a safety copy on the phone. Export saves a table as a CSV file."
+  ],
+  "deskdash": [
+   "Full dashboard",
+   "The same cards as the computer. Tap a card to see its records."
+  ],
+  "overdue": [
+   "Overdue payments",
+   "When a client pays, tap Record payment on their row. A part payment is fine. The balance stays here until it is cleared."
+  ],
+  "alerts": [
+   "Needs attention",
+   "Red items are urgent. Tap an item to go straight to where you fix it."
+  ],
+  "notifs": [
+   "Notifications",
+   "Tap one to open it. The bell on Home shows how many are unread."
+  ],
+  "f-form": [
+   "Filling in a form",
+   "Fields with a star are needed. Fields with an arrow open your own list, so names are never typed twice."
+  ],
+  "f-pay": [
+   "Money in or money out?",
+   "Money in is what a client pays you. Money out is what you spend. The questions change to match."
+  ],
+  "f-od": [
+   "Recording a payment",
+   "Check the amount, then save. You can pay part of what is owed. The balance stays on the overdue list."
+  ],
+  "detail": [
+   "This page",
+   "Tap Record payment when the client pays. Edit changes the record. The balance updates straight away."
+  ],
+  "settings": [
+   "Settings",
+   "Display size changes text and spacing. Tap targets always stay at least 48 px."
+  ],
+  "sw-main": [
+   "Swipe to move around",
+   "Swipe left to go on to Rentals, Calendar and Menu. Swipe right to come back. On Home, swipe right for the full dashboard."
+  ],
+  "sw-back": [
+   "Swipe to go back",
+   "Swipe from left to right on any page to close it. The back arrow does the same."
+  ]
+ },
+ "tour": [
+  {
+   "s": ".hero",
+   "t": "Your month at a glance",
+   "b": "Tap this big card to open the full dashboard, the same cards as on the computer."
+  },
+  {
+   "s": ".bellb",
+   "t": "Alerts",
+   "b": "The bell shows what needs you: late cars, unpaid rentals, low fuel."
+  },
+  {
+   "s": ".fab",
+   "t": "Add anything",
+   "b": "Tap + to add a rental, payment, booking, expense or fuel."
+  },
+  {
+   "s": "#tab button:last-child",
+   "t": "Everything else",
+   "b": "The Menu holds vehicles, fuel, reports and File & backup."
+  },
+  {
+   "s": null,
+   "t": "Tips are on",
+   "b": "You will see one small tip the first time you open each screen. Turn tips off any time in Settings."
+  }
+ ]
+}

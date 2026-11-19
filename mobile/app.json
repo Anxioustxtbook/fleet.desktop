@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "FleetPilot",
+    "slug": "fleetpilot-mobile",
+    "version": "0.1.2",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.fleetpilot.mobile",
+      "versionCode": 3,
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE",
+        "ACCESS_WIFI_STATE",
+        "WAKE_LOCK",
+        "CAMERA",
+        "POST_NOTIFICATIONS"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-secure-store",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "FleetPilot uses the camera only to scan the pairing code shown on the computer."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "FleetPilot uses photos only when you choose a picture for a vehicle, client, profile, or dashboard.",
+          "cameraPermission": false,
+          "microphonePermission": false
+        }
+      ],
+      "expo-sharing",
+      "expo-notifications",
+      "expo-font"
+    ],
+    "icon": "./assets/icon.png"
+  }
+}

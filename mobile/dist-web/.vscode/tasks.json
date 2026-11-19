@@ -1,0 +1,48 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Android Debug APK",
+			"type": "shell",
+			"command": ".\\android\\gradlew.bat",
+			"args": [
+				"-p",
+				"android",
+				"assembleDebug"
+			],
+			"options": {
+				"env": {
+					"JAVA_HOME": "C:\\Users\\Kangogo\\AppData\\Local\\Programs\\Microsoft\\jdk-17.0.10.7-hotspot",
+					"ANDROID_HOME": "C:\\Users\\Kangogo\\AppData\\Local\\Android\\Sdk",
+					"ANDROID_SDK_ROOT": "C:\\Users\\Kangogo\\AppData\\Local\\Android\\Sdk"
+				}
+			},
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Inspect Android SDK Components",
+			"type": "shell",
+			"command": "Get-ChildItem",
+			"args": [
+				"\"$env:LOCALAPPDATA\\Android\\Sdk\\ndk\"",
+				"-Directory",
+				"-ErrorAction",
+				"SilentlyContinue"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Check Android SDK Manager",
+			"type": "shell",
+			"command": "Test-Path",
+			"args": [
+				"\"$env:LOCALAPPDATA\\Android\\Sdk\\cmdline-tools\\latest\\bin\\sdkmanager.bat\""
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

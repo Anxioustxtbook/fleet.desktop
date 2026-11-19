@@ -1,0 +1,94 @@
+{
+ "terms": {
+  "title": "Terms of Use",
+  "sections": [
+   {
+    "eyebrow": "JIRANI SYSTEMS · FLEETPILOT",
+    "title": null,
+    "text": null
+   },
+   {
+    "eyebrow": null,
+    "title": "2. Permitted use",
+    "text": "You may use FleetPilot to manage vehicles, clients, drivers, bookings, rentals, payments, fuel, expenses and related business records. You must have permission to enter or process the information you add and must not misuse the application or attempt to disrupt its operation."
+   },
+   {
+    "eyebrow": null,
+    "title": "3. Your records and responsibilities",
+    "text": "The organisation operating the FleetPilot installation is responsible for the accuracy and lawful use of its business records, deciding who may access them, and responding to requests from its customers, staff or other data subjects. Keep sign-in details private and restrict access to authorised people."
+   },
+   {
+    "eyebrow": null,
+    "title": "4. Storage, backups and syncing",
+    "text": "Records may be stored on the device or computer where FleetPilot is installed. Where a sync service is configured and enabled, records selected for synchronisation may be transferred between authorised devices or the configured service. You are responsible for maintaining suitable backups and checking that synchronisation has completed before relying on another device."
+   },
+   {
+    "eyebrow": null,
+    "title": "5. Availability and updates",
+    "text": "Jirani Systems may update, improve or change FleetPilot features. Some functions depend on the device, operating system, network, browser or third-party services in use. No uninterrupted or error-free operation is promised."
+   },
+   {
+    "eyebrow": null,
+    "title": "6. Third-party services",
+    "text": "Some optional functions may rely on third-party libraries or services. Their availability and terms may apply separately. Do not enable an integration unless you understand what information it may process."
+   },
+   {
+    "eyebrow": null,
+    "title": "7. Limitation and support",
+    "text": "FleetPilot is a business-management tool and does not replace professional accounting, legal or tax advice. Check important reports and keep independent copies of critical records. For product support, contact Jirani Systems using the support details provided in the application."
+   },
+   {
+    "eyebrow": null,
+    "title": "8. Contact and applicable law",
+    "text": "Questions about these terms may be sent to jiranisystem23@gmail.com or +254 115 532 658. Applicable law will depend on the deployment and the parties' agreement; obtain local legal review before using these terms as a binding customer contract."
+   }
+  ],
+  "note": "Draft for product review. Before commercial release, confirm the contracting legal entity, customer licence/subscription terms, warranty, liability limits, dispute process and governing law with a qualified adviser."
+ },
+ "privacy": {
+  "title": "Privacy Policy",
+  "sections": [
+   {
+    "eyebrow": "JIRANI SYSTEMS · FLEETPILOT",
+    "title": null,
+    "text": null
+   },
+   {
+    "eyebrow": null,
+    "title": "2. Information stored in the app",
+    "text": "Depending on the features used, records may include vehicle and registration details, client and driver contact information, bookings, rental dates, payment entries, fuel and expense records, and profile settings. Please enter only information that is necessary for your business and that you are authorised to use."
+   },
+   {
+    "eyebrow": null,
+    "title": "3. Where information is stored",
+    "text": "FleetPilot may store records locally on the phone or computer running the app. If an administrator configures and enables syncing or another connected service, relevant records may be transmitted to that service or to authorised devices. The exact storage location and service provider depend on the deployment chosen by the operating organisation."
+   },
+   {
+    "eyebrow": null,
+    "title": "4. Why information is used",
+    "text": "Information is used to display and manage fleet operations, rentals, payments, reminders, reports, backups and synchronisation features selected by the operator. Jirani Systems does not need access to a customer's business records for ordinary local use of the app."
+   },
+   {
+    "eyebrow": null,
+    "title": "5. Diagnostics and third parties",
+    "text": "Where optional error-monitoring or analytics services are enabled by the operator, technical information such as application errors or performance diagnostics may be sent to the configured provider. Third-party libraries and services may have their own privacy terms. The operator should review and configure these services before enabling them."
+   },
+   {
+    "eyebrow": null,
+    "title": "6. Security and retention",
+    "text": "The operating organisation should control user access, protect devices, keep backups and decide how long business records are retained. No electronic storage or transfer method can be guaranteed completely secure. Delete or export records according to the organisation's retention and legal requirements."
+   },
+   {
+    "eyebrow": null,
+    "title": "7. Your choices and requests",
+    "text": "For access, correction, deletion or other requests about records entered into a particular FleetPilot installation, contact the organisation that operates it. For questions about the software or this notice, contact Jirani Systems at jiranisystem23@gmail.com or +254 115 532 658."
+   },
+   {
+    "eyebrow": null,
+    "title": "8. Updates to this notice",
+    "text": "This notice may be updated when FleetPilot features or deployment arrangements change. The operator should make the current notice available to users and customers whose information is entered into the app."
+   }
+  ],
+  "note": "Draft notice. Before publication, verify the actual database, hosting, sync destination, monitoring configuration, retention periods, responsible data controller and applicable Kenyan data-protection obligations for each deployment."
+ }
+}
